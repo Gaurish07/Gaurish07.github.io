@@ -1,0 +1,1 @@
+Software testing is basically divided into **white box** and **black box** testing.
